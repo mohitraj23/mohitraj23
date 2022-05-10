@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohit_singh_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mohit_singh_23" height="30" width="40" /></a> 
+<a href="https://twitter.com/mohit_singh_23" target="white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mohit_singh_23" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/mohit-r-06156b200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohitraj23" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mohit.singhh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mohit.singhh" height="30" width="40" /></a>
 </p>
