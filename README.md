@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning DSA & improving myself.
 
-- ✨ I used to code in c++
+- ✨ I used to code in Java
 
 - 👨‍💻 You can also check out my profie at [https://github.com/mohitraj23](https://github.com/mohitraj23)
 
-- 📫 How to reach me **mohitraj3125@gmail.com**
+- 📫 How to reach me **mohitraj0923@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
 
