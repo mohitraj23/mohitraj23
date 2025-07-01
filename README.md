@@ -1,25 +1,27 @@
 <h1 align="center">Hi 👋, I'm Mohit Raj</h1>
-<h3 align="center"></h3>
+<h3 align="center">A Java Backend Developer in the making 🚀 | TCS | Spring Boot | DSA | Microservices</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitraj23&label=Profile%20views&color=129e00&style=plastic" alt="mohitraj23" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mohitraj23&label=Profile%20views&color=129e00&style=plastic" alt="mohitraj23" />
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning DSA & improving myself.
-
-- ✨ I used to code in Java
-
-- 👨‍💻 You can also check out my profie at [https://github.com/mohitraj23](https://github.com/mohitraj23)
-
-- 📫 How to reach me **mohitraj0923@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
+- 🔭 I’m currently working at **TCS Bengaluru** as a Full Stack Developer  
+- 🌱 Currently learning: **Spring Boot**, **Microservices**, and **DSA **  
+- 💻 Tech I work with: **Java**, **Spring Boot**, **REST APIs**, **JavaScript**, **Node.js**, **SQL**, **AWS (learning)**  
+- 🎯 Career goal: To transition into a Java Backend Developer role in a product-based company  
+- 📫 Reach me at **mohitraj0923@gmail.com**  
+- ⚡ Fun fact: **I think I’m funny XD (at least my compiler agrees 😄)**  
+- 👨‍💻 Check out my projects: [https://github.com/mohitraj23](https://github.com/mohitraj23)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohit_singh_23" target="white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mohit_singh_23" height="30" width="40" /></a> 
-<a href="https://www.linkedin.com/in/mohit-r-06156b200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohitraj23" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mohit.singhh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mohit.singhh" height="30" width="40" /></a>
+  <a href="https://twitter.com/mohit_singh_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mohit_singh_23" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mohit-r-06156b200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohitraj23" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mohit.singhh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mohit.singhh" height="30" width="40" /></a>
 </p>
+
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
